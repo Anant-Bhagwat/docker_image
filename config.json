@@ -1,0 +1,17 @@
+{
+    "db": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "db_name": "telemetry_db",
+        "dialect": "mysql"
+    },
+    "schedule": [
+        "45 10 * * * *"
+    ],
+    "entity_id": "Your Entity id",
+    "server_port": 3434,
+    "api_key":"k81dzSIfpEcvMxBbuo6zD22GPcsgs0zg"
+
+}
